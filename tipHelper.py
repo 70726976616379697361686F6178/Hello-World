@@ -1,6 +1,7 @@
 numbers = list(range(1,101))
 fizz = "fizz"
 buzz = "buzz"
+#fiiiiizz
 
 for i in numbers:
 	if i%3 == 0:
